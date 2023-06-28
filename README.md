@@ -5,7 +5,7 @@ UI test Python Selenium
 In this repository will use such key libraries/technologies:
 * Python 3.11
 * Selenium WebDriver
-## For run test use
+##№ For run test use
 ```
 python test_site.py
 ```
